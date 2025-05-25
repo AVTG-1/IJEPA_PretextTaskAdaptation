@@ -1,0 +1,26 @@
+Epoch 1: Loss = 559.0047, Acc = 25.20%
+Epoch 2: Loss = 544.2483, Acc = 24.89%
+Epoch 3: Loss = 543.3974, Acc = 25.59%
+Epoch 4: Loss = 542.8872, Acc = 25.89%
+Epoch 5: Loss = 540.4593, Acc = 27.69%
+Epoch 6: Loss = 542.4520, Acc = 26.02%
+Epoch 7: Loss = 542.7500, Acc = 25.97%
+Epoch 8: Loss = 542.2240, Acc = 25.75%
+Epoch 9: Loss = 541.9105, Acc = 25.87%
+Epoch 10: Loss = 541.6956, Acc = 26.54%
+Epoch 11: Loss = 541.9983, Acc = 25.87%
+Epoch 12: Loss = 541.8413, Acc = 26.22%
+Epoch 13: Loss = 541.9423, Acc = 26.40%
+Epoch 14: Loss = 542.1169, Acc = 25.40%
+Epoch 15: Loss = 541.9903, Acc = 25.76%
+Epoch 16: Loss = 541.9351, Acc = 26.08%
+Epoch 17: Loss = 541.8163, Acc = 26.51%
+Epoch 18: Loss = 541.8765, Acc = 26.36%
+Epoch 19: Loss = 541.7271, Acc = 26.50%
+Epoch 20: Loss = 541.0402, Acc = 27.20%
+Epoch 21: Loss = 541.0603, Acc = 27.23%
+Epoch 22: Loss = 541.1125, Acc = 26.94%
+Epoch 23: Loss = 540.3219, Acc = 27.79%
+Epoch 24: Loss = 539.0359, Acc = 28.75%
+Epoch 25: Loss = 538.4712, Acc = 28.81%
+Model saved to checkpoints/rotation_vit_cifar10.pth
