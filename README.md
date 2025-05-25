@@ -22,4 +22,4 @@ Adaptation of Facebook's I-JEPA for self-supervised learning with pretext tasks 
 - Pre-trained Models : checkpoints/rotation_vit_cifar10.pth, checkpoints/rppp_cifar10_vit.pth
 
 ## Dataset
-CIFAR-10 (included in /cifar-10-batches-py)
+CIFAR-10
