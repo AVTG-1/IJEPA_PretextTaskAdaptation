@@ -31,5 +31,5 @@ CIFAR-10 (available in cifar-10-batches-py/)
    3. Masking (Original IJEPA)
 - The model has been trained with two stratergies -
    1. Direct sum of losses from the pre-text tasks
-   2. Weighted sum of losses from the pre-text tasks with learned weights - $\lambda_1$, $\lambda_2$,$\lambda_3$ [Doersch et al., 2017]
+   2. Weighted sum of losses from the pre-text tasks with learned weights - $\lambda_1$, $\lambda_2$, $\lambda_3$ [Doersch et al., 2017]
 - The training logs (output_MultiTask_with_WeightedSum.txt) for the weighted sum stratergy, along with the models (checkpoints/multitask/*) are stored in the repository.
